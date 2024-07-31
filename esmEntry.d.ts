@@ -1,4 +1,4 @@
-import type p5 from "p5";
+import type { p5 } from "p5";
 
 declare module "p5.capture" {
   export class P5Capture {
